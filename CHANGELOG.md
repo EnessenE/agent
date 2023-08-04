@@ -59,6 +59,8 @@ Main (unreleased)
   - `discovery.eureka` discovers targets from a Eureka Service Registry. (@spartan0x117)
   - `discovery.openstack` - service discovery for OpenStack. (@marctc)
   - `discovery.hetzner` - service discovery for Hetzner Cloud. (@marctc)
+  - `otelcol.processor.spanlogs` - creates logs from spans. It is the flow mode equivalent 
+  to static mode's `automatic_logging` processor. (@ptodev)
 
 ### Bugfixes
 
