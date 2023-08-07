@@ -76,6 +76,8 @@ Main (unreleased)
   entry in the traces config. It is no longer configurable through the jaeger receiver.
   Support Jaeger remote sampling was removed accidentally in v0.35, and it is now restored, 
   albeit via a different config entry.
+  
+- Replace "install/uninstall" sections mentioning the flow agent instead of the static agent.
 
 v0.35.2 (2023-07-27)
 --------------------
